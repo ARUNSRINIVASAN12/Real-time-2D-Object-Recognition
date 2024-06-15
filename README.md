@@ -54,7 +54,7 @@ Visual Studio Code is a lightweight but powerful source code editor that runs on
 4. append to Path the path to OpenCV: C:\opencv\bin
 5. restart computer
 6. open cmd
-7. 'echo %Path%' output should contain a new path
+7. `echo %Path%` output should contain a new path
 
 
 ## Results
