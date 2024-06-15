@@ -21,8 +21,8 @@ whether the outputs align with the desired requirements for each task.
 for more info [user manual](report.pdf) and https://drive.google.com/file/d/15g6uBcigfUhCiSU8xwIDQws_zaKUkxFT/view
 
 ### Development Environment
-- **Operating System:** Windows 11, Ubuntu 22.04
-- **IDE:**  Qt creator, Qt creator
+- **Operating System:** Ubuntu 22.04
+- **IDE:**  Qt creator
 
 
 ## Installation
