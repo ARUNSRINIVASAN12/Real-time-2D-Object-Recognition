@@ -1,10 +1,4 @@
-/*
-  Bruce A. Maxwell
-  Spring 2024
-  CS 5330
 
-  Header file for implementation of a K-means algorithm
-*/
 #include <opencv2/opencv.hpp>
 #include <vector>
 #ifndef KMEANS_H
