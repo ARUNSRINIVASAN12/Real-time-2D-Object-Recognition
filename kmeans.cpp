@@ -1,10 +1,3 @@
-/*
-  Bruce A. Maxwell
-  Spring 2024
-  CS 5330
-
-  Implementation of a K-means algorithm
-*/
 
 
 #include <cstdio>
